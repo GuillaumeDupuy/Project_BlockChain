@@ -5,9 +5,9 @@
 This project is a simple implementation of a blockchain.
 The objective is a project of a blockchain development DAPP "Young Graduate"
 
-You can find the project [here](https://github.com/GuillaumeDupuy/Project_BlockChain/blob/main/Ynov - Blockchain_Projet de développement 23-24.pdf")
+You can find the project [here]("https://github.com/GuillaumeDupuy/Project_BlockChain/blob/main/Ynov - Blockchain_Projet de développement 23-24.pdf")
 
-You can see all project in video here :
+You can see all project in video [here](https://www.youtube.com/watch?v=W6Y606AqyG0)
 
 ## 2. Installation
 
